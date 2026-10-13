@@ -1,18 +1,16 @@
 # Assignment 1 Report
 
-*Delete this italic guidance as you fill in each section. You'll be asked to
-defend any of this without your code in front of you — write only what you
-can actually explain.*
-
-- **Name**:
-- **Student ID**:
-- **Email**:
-- **Group**: [BBADBA 5A | BBADBA 5B | PPLEDBA 5A | BDBA 3A]
+- **Name**: Yasmin Tandon
+- **Student ID**: 20356
+- **Email**: ytandon.ieu2022@student.ie.edu
+- **Group**: BBADBA 5A
 
 ## Dataset
+source: https://www.kaggle.com/datasets/srisyra02/zomato-market-analysis 
 
-*What is it, where did you get it, what does one row represent, how many
-rows/columns, and why did you pick it.*
+Zomato is the largest food delivery/restaurant app in India. Similar to UberEats here in Europe, you can order in or schedule pick ups. And also similar to TheFork, you can rate restaurants, get discount codes and make reservations to dine in. I am very interested in the restaurant industry hence I picked this dataset. 
+
+The dataset is 9551x21 with each row representing one restaurant. I filtered it to only include restaurants located in India and then did some feature engineering. This Brought the effective dataset size to 6,504 × 42
 
 ## Business / real-life framing
 
@@ -39,7 +37,3 @@ naive baseline. Do the three agree? If not, why not?*
 
 *Real limitations you found, and concretely how you'd address each one with
 more time or data — not generic hedging.*
-
-## Generative AI use disclosure
-
-*Per the syllabus AI Policy: what you used and how, or "no AI content used."*
